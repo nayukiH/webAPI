@@ -4,7 +4,7 @@
 
 效果如下：
 
-![](C:\Users\nayuk\Pictures\工作\c#\hw4\1.JPG)
+![](1.JPG)
 
-![2](C:\Users\nayuk\Pictures\工作\c#\hw4\2.JPG)
+![2](2.JPG)
 
